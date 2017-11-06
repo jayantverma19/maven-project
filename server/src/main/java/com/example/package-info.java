@@ -1,5 +1,5 @@
 /**
-*this is random file
+*this is random file.
 *package-info
 */
 
